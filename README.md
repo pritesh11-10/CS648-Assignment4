@@ -9,7 +9,7 @@ Go to Ui folder and run `npm run install` to install all the dependencies.
 
 Go to Api folder and run `npm run start` to bring up the Api server.\
 Go to Ui folder and run `npm run start` to bring up the UI.\ (Runs on localhost:8000)
-Now Navigate to `http://localhost:8000/` to interact with the application.
+Now Navigate to `http://localhost:8000/` to run the application.
 
 ## MongoDB reset
 
